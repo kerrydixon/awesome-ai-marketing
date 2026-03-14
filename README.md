@@ -163,6 +163,8 @@ By **[Altern](https://altern.ai)**
   A comprehensive platform that lists the best marketing tools for various digital marketing needs.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
+- **[Syxo](https://www.syxoai.com)**  
+  AI marketing systems education. Digital products and 30+ free guides teaching solopreneurs to build complete AI marketing workflows.
 
 ## Contributing
 
